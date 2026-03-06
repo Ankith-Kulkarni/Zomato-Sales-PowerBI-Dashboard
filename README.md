@@ -47,7 +47,7 @@ The data was cleaned and transformed in Power BI before creating visualizations.
 
 ## Dashboard Preview
 <p align="center">
-  <img src="dashboard_preview.png" width="800">
+  <img src="dashboard_preview" width="800">
 </p>
 
 
